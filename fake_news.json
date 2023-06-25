@@ -1,0 +1,106 @@
+{
+    "status": "ok",
+    "totalResults": 0,
+    "articles": [
+      {
+        "title": "Amazon plans to invest another $15 billion in India by 2030",
+        "author": "Manish Singh",
+        "source": {
+          "Id": "techcrunch",
+          "Name": "TechCrunch"
+        },
+        "publishedAt": "2023-06-24T02:58:04Z",
+        "url": "https://techcrunch.com/2023/06/23/amazon-investment-india-jassy-modi/"
+      },
+      {
+        "title": "This week in AI: Big tech bets billions on machine learning tools",
+        "author": "Kyle Wiggers and Devin Coldewey",
+        "source": {
+          "Id": "techcrunch",
+          "Name": "TechCrunch"
+        },
+        "publishedAt": "2023-06-24T00:23:05Z",
+        "url": "https://techcrunch.com/2023/06/24/this-week-in-ai-big-tech-bets-billions-on-machine-learning-tools/"
+      },
+      {
+        "title": "How one software engineer is turning Silicon Valley Bank's collapse story into a musical",
+        "author": "Christine Hall",
+        "source": {
+          "Id": "techcrunch",
+          "Name": "TechCrunch"
+        },
+        "publishedAt": "2023-06-23T22:45:20Z",
+        "url": "https://techcrunch.com/2023/06/24/silicon-valley-bank-musical/"
+      },
+      {
+        "title": "Deal Dive: Caraway shows what else digital health can do",
+        "author": "Rebecca Szkutak",
+        "source": {
+          "Id": "techcrunch",
+          "Name": "TechCrunch"
+        },
+        "publishedAt": "2023-06-23T22:38:17Z",
+        "url": "https://techcrunch.com/2023/06/24/caraway-digital-health-fundraising/"
+      },
+      {
+        "title": "Hacker responsible for 2020 Twitter breach sentenced to prison",
+        "author": "Zack Whittaker",
+        "source": {
+          "Id": "techcrunch",
+          "Name": "TechCrunch"
+        },
+        "publishedAt": "2023-06-23T20:49:53Z",
+        "url": "https://techcrunch.com/2023/06/23/twitter-hacker-sentenced-prison/"
+      },
+      {
+        "title": "What happens if regulators nix the $20B Adobe-Figma deal?",
+        "author": "Alex Wilhelm and Ron Miller",
+        "source": {
+          "Id": "techcrunch",
+          "Name": "TechCrunch"
+        },
+        "publishedAt": "2023-06-23T20:15:29Z",
+        "url": "https://techcrunch.com/2023/06/23/adobe-figma-deal-regulators/"
+      },
+      {
+        "title": "OceanGate fires a whistleblower, hackers threaten to leak Reddit data, and Marvel embraces AI art",
+        "author": "Kyle Wiggers",
+        "source": {
+          "Id": "techcrunch",
+          "Name": "TechCrunch"
+        },
+        "publishedAt": "2023-06-23T19:13:28Z",
+        "url": "https://techcrunch.com/2023/06/24/oceangate-fires-a-whistleblower-hackers-threaten-to-leak-reddit-data-and-marvel-embraces-ai-art/"
+      },
+      {
+        "title": "Why smart AI regulation is vital for innovation and U.S. leadership",
+        "author": "Gary Shapiro",
+        "source": {
+          "Id": "techcrunch",
+          "Name": "TechCrunch"
+        },
+        "publishedAt": "2023-06-23T19:03:29Z",
+        "url": "https://techcrunch.com/2023/06/23/why-smart-ai-regulation-is-vital-for-innovation-and-u-s-leadership/"
+      },
+      {
+        "title": "TechCrunch+ roundup: AI + travel, fusion investor survey, why you'll never get funding",
+        "author": "Walter Thompson",
+        "source": {
+          "Id": "techcrunch",
+          "Name": "TechCrunch"
+        },
+        "publishedAt": "2023-06-23T18:13:58Z",
+        "url": "https://techcrunch.com/2023/06/23/techcrunch-roundup-ai-travel-products-fusion-investor-survey-why-youll-never-get-funding/"
+      },
+      {
+        "title": "Keeping tabs on dry powder and university spinouts",
+        "author": "Anna Heim",
+        "source": {
+          "Id": "techcrunch",
+          "Name": "TechCrunch"
+        },
+        "publishedAt": "2023-06-22T21:41:34Z",
+        "url": "https://techcrunch.com/2023/06/24/venture-capital-university-spinouts/"
+      }
+    ]
+  }

@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "ai-newsletter"
+version = "0.1.0"
+description = ""
+authors = ["Sofiane Bebert <s.bebert@diceytech.co.uk>"]
+readme = "README.md"
+packages = [{include = "ai_newsletter"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+langchain = "^0.0.214"
+openai = "^0.27.8"
+newsapi-python = "^0.2.7"
+beautifulsoup4 = "^4.12.2"
+ipykernel = "^6.23.3"
+black = "^23.3.0"
+tiktoken = "^0.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
